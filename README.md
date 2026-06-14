@@ -1,5 +1,41 @@
-## Hi there 👋
+# Hello 👋 I'm Adam Chebbi
 
+## 🚀 About Me
+
+Computer Science student passionate about programming and AI.
+
+## 💻 Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- AI tools
+
+## 🛠 Services
+
+- Website Development
+- Python Scripts
+- Bug Fixing
+- AI Automation
+- Professional CV Creation
+- PowerPoint Presentations
+
+## 📂 Projects
+
+### CVision
+AI-powered CV generator.
+
+### Restaurant Website
+Responsive website built with HTML, CSS and JavaScript.
+
+### To-Do List
+Task management application.
+
+## 📫 Contact
+
+Email: ademchebbi40@gmail.com
 <!--
 **Adamaaa699/Adamaaa699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
