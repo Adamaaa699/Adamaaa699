@@ -24,14 +24,22 @@ Computer Science student passionate about programming and AI.
 
 ## 📂 Projects
 
+## 📁 Projects
+
 ### CVision
-AI-powered CV generator.
+AI-powered CV builder with ATS analysis and PDF export.
 
-### Restaurant Website
-Responsive website built with HTML, CSS and JavaScript.
+### StudyFlow
+Productivity platform for organizing study sessions and tasks.
 
-### To-Do List
-Task management application.
+### Resto Dashboard
+Responsive restaurant management interface built with HTML, CSS and JavaScript.
+
+### Tempo Planner
+Task management application designed to improve productivity.
+
+### Arcadia
+Modern web project with a focus on UI/UX and responsive design.
 
 ## 📫 Contact
 
