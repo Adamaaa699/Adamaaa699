@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adam%20Chebbi&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Integrator%20%7C%20Digital%20Builder&descAlignY=56&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Paul+Sabatier;Web+Developer+%26+AI+Integrator;Building+real+tools+that+solve+real+problems;Available+for+freelance+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Paul+Sabatier;Web+Developer+%26+AI+Integrator;Building+real+tools+that+solve+real+problems;Available+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -62,7 +64,7 @@ I build **websites, dashboards, AI-powered tools, and automation scripts** — c
 ### 📄 [CVision 2.0](https://adamaaa699.github.io/CVision/)
 **AI-powered CV builder**
 
-8 themes, ATS analysis, coaching tips, and one-click PDF/PNG export. Everything in a single file.
+8 themes, ATS analysis, coaching tips, one-click PDF export.
 
 `HTML` `CSS` `JS` `AI` `PDF Export`
 
@@ -70,9 +72,9 @@ I build **websites, dashboards, AI-powered tools, and automation scripts** — c
 <td width="50%">
 
 ### 🧾 [Facturio](https://adamaaa699.github.io/facturio/)
-**Professional invoice & quote generator**
+**Invoice & quote generator**
 
-Real-time A4 preview, auto VAT calculation, auto-entrepreneur mode, PDF export. Zero dependencies.
+Real-time A4 preview, auto VAT calc, auto-entrepreneur mode, PDF export.
 
 `HTML` `CSS` `JS` `PDF` `Business Tool`
 
@@ -84,7 +86,7 @@ Real-time A4 preview, auto VAT calculation, auto-entrepreneur mode, PDF export. 
 ### 📊 [Resto Dashboard](https://adamaaa699.github.io/Resto_dashboard/)
 **Restaurant analytics dashboard**
 
-Sales tracking, peak hours heatmap, menu profitability matrix, staff performance. Built for real restaurateurs.
+Sales, heatmap, menu profitability matrix, staff performance.
 
 `HTML` `CSS` `JS` `Chart.js` `Data Viz`
 
@@ -94,9 +96,9 @@ Sales tracking, peak hours heatmap, menu profitability matrix, staff performance
 ### ⏱️ [Tempo Planner](https://adamaaa699.github.io/tempo-planner/)
 **AI scheduling tool for freelancers**
 
-Smart task planning, calendar view, focus timer (Pomodoro), calendar export (.ics). 100% local.
+Smart task planning, calendar view, focus timer, export .ics.
 
-`HTML` `CSS` `JS` `Algorithm` `PWA`
+`HTML` `CSS` `JS` `Algorithm`
 
 </td>
 </tr>
@@ -104,9 +106,9 @@ Smart task planning, calendar view, focus timer (Pomodoro), calendar export (.ic
 <td width="50%">
 
 ### 🎮 [Arcadia](https://adamaaa699.github.io/arcadia/)
-**Next-gen browser arcade hub**
+**Browser arcade hub**
 
-9 playable games (Snake, Flappy, Morpion vs AI, Penalty, Maze, Darts, Agar…) with difficulty levels & high scores.
+9 playable games vs AI bots with difficulty levels & high scores.
 
 `Canvas API` `JS` `Game Design` `AI Bot`
 
@@ -116,9 +118,9 @@ Smart task planning, calendar view, focus timer (Pomodoro), calendar export (.ic
 ### 🌐 [Portfolio](https://adamaaa699.github.io/)
 **Personal portfolio & freelance site**
 
-Services showcase, project gallery, pricing, contact form. Fully responsive dark design.
+Services, projects, pricing, contact form. Responsive dark design.
 
-`HTML` `CSS` `JS` `FormSubmit` `Design`
+`HTML` `CSS` `JS` `Design`
 
 </td>
 </tr>
@@ -130,8 +132,9 @@ Services showcase, project gallery, pricing, contact form. Fully responsive dark
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adamaaa699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamaaa699&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adamaaa699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Adam's GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamaaa699&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -162,4 +165,3 @@ Services showcase, project gallery, pricing, contact form. Fully responsive dark
 *Open to freelance projects · devis gratuit · réponse sous 24 h*
 
 </div>
--->
