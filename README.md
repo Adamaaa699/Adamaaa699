@@ -8,70 +8,63 @@
 
 I'm **Adam Chebbi**, a Computer Science student (L2) at **Université Toulouse III – Paul Sabatier**, France.
 
-I build **websites, dashboards, AI-powered tools, and automation scripts** — clean, fast, and ready to use. I care about delivering things that actually work.
+I build **websites, dashboards, AI-powered tools, and automation scripts** — clean, fast, and ready to use.
 
 - 📍 Based in **Toulouse, France** — originally from **Tunis**
-- 🎓 Currently in **L2 Informatique** (2026–2027)
-- 💼 Available for **freelance projects** (websites, AI integration, dashboards, presentations, automation)
-- 🌍 Languages: **French · Arabic · English**
-- ⚡ I reply within **24 hours**
+- 🎓 **L2 Informatique** — Paul Sabatier (2026–2027)
+- 💼 Open to **freelance projects** & **alternance septembre 2026**
+- 🌍 **French · Arabic · English**
+- ⚡ Reply within **24 hours**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+`HTML5` `CSS3` `JavaScript` `Python` `Git` `GitHub` `Chart.js` `VS Code` `AI APIs`
 
 ---
 
 ## 💼 Services
 
-| Service | Description |
-|---|---|
-| 🌐 **Website Development** | Landing pages, dashboards, web apps — responsive & modern |
-| 🤖 **AI Integration** | Chatbots, content generation, AI-powered tools |
-| 📊 **Data Analysis & Excel** | Charts, reports, dashboards from raw data |
-| 🎨 **PowerPoint Presentations** | Pitch decks, business slides, university presentations |
-| 📄 **CV & Documents** | Professional CVs, reports, quotes, formatted PDFs |
-| 🐍 **Python Automation** | Scripts to automate repetitive tasks |
-| 🧾 **Invoices & Quotes** | Professional billing tools for freelancers & businesses |
+| | Service | Description |
+|---|---|---|
+| 🌐 | Website Development | Landing pages, dashboards, web apps |
+| 🤖 | AI Integration | Chatbots, automation, AI-powered tools |
+| 📊 | Data Analysis | Charts, reports, Excel dashboards |
+| 🎨 | PowerPoint | Pitch decks, business & university slides |
+| 📄 | CV & Documents | Professional CVs, reports, formatted PDFs |
+| 🐍 | Python Automation | Scripts for repetitive tasks |
+| 🧾 | Invoices & Quotes | Billing tools for freelancers & businesses |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 📄 **[CVision 2.0](https://adamaaa699.github.io/CVision/)** | AI-powered CV builder — 8 themes, ATS analysis, PDF export | `HTML` `CSS` `JS` `AI` |
-| 🧾 **[Facturio](https://adamaaa699.github.io/facturio/)** | Invoice & quote generator — real-time A4 preview, PDF export | `HTML` `CSS` `JS` `PDF` |
-| 📊 **[Resto Dashboard](https://adamaaa699.github.io/Resto_dashboard/)** | Restaurant analytics — sales, heatmap, menu profitability | `HTML` `CSS` `Chart.js` |
-| ⏱️ **[Tempo Planner](https://adamaaa699.github.io/tempo-planner/)** | AI scheduling for freelancers — calendar view, focus timer | `HTML` `CSS` `JS` |
-| 🎮 **[Arcadia](https://adamaaa699.github.io/arcadia/)** | Browser arcade — 9 games vs AI bots, difficulty levels | `Canvas` `JS` `AI Bot` |
-| 🌐 **[Portfolio](https://adamaaa699.github.io/)** | Personal freelance site — services, projects, contact form | `HTML` `CSS` `JS` |
+| Project | Description |
+|---|---|
+| 📄 [CVision 2.0](https://adamaaa699.github.io/CVision/) | AI-powered CV builder — 8 themes, ATS analysis, PDF export |
+| 🧾 [Facturio](https://adamaaa699.github.io/facturio/) | Invoice generator — real-time A4 preview, TVA auto, PDF export |
+| 📊 [Resto Dashboard](https://adamaaa699.github.io/Resto_dashboard/) | Restaurant analytics — sales, heatmap, menu profitability |
+| ⏱️ [Tempo Planner](https://adamaaa699.github.io/tempo-planner/) | AI scheduling — calendar view, focus timer, .ics export |
+| 🎮 [Arcadia](https://adamaaa699.github.io/arcadia/) | Browser arcade — 9 games vs AI bots, difficulty levels |
+| 🌐 [Portfolio](https://adamaaa699.github.io/) | Personal freelance site — services, projects, contact |
 
 ---
 
 ## 📈 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adamaaa699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamaaa699&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Adamaaa699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamaaa699&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Adamaaa699&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Adamaaa699&theme=tokyonight&hide_border=true" width="100%"/>
 
 ---
 
-## 📫 Contact & Hire Me
+## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-ademchebbi40@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademchebbi40@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B33_7_79_79_34_15-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33779793415)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adamaaa699.github.io-7C5CFF?style=for-the-badge&logo=github&logoColor=white)](https://adamaaa699.github.io/)
+- 📧 **Email :** [ademchebbi40@gmail.com](mailto:ademchebbi40@gmail.com)
+- 💬 **WhatsApp :** [+33 7 79 79 34 15](https://wa.me/33779793415)
+- 🌐 **Portfolio :** [adamaaa699.github.io](https://adamaaa699.github.io/)
 
 ---
 
