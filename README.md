@@ -1,60 +1,165 @@
-# Hello 👋 I'm Adam Chebbi
+<div align="center">
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adam%20Chebbi&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Integrator%20%7C%20Digital%20Builder&descAlignY=56&descSize=18" width="100%"/>
 
-Computer Science student passionate about programming and AI.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+Paul+Sabatier;Web+Developer+%26+AI+Integrator;Building+real+tools+that+solve+real+problems;Available+for+freelance+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 💻 Skills
+</div>
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- AI tools
+---
 
-## 🛠 Services
+## 👋 About Me
 
-- Website Development
-- Python Scripts
-- Bug Fixing
-- AI Automation
-- Professional CV Creation
-- PowerPoint Presentations
+I'm **Adam Chebbi**, a Computer Science student (L2) at **Université Toulouse III – Paul Sabatier**, France.
 
-## 📂 Projects
+I build **websites, dashboards, AI-powered tools, and automation scripts** — clean, fast, and ready to use. I care about delivering things that actually work.
 
-## 📁 Projects
+- 📍 Based in **Toulouse, France** — originally from **Tunis**
+- 🎓 Currently in **L2 Informatique** (2026–2027)
+- 💼 Available for **freelance projects** (websites, AI integration, dashboards, presentations, automation)
+- 🌍 Languages: **French · Arabic · English**
+- ⚡ I reply within **24 hours**
 
-### CVision
-AI-powered CV builder with ATS analysis and PDF export.
+---
 
-### StudyFlow
-Productivity platform for organizing study sessions and tasks.
+## 🛠️ Tech Stack
 
-### Resto Dashboard
-Responsive restaurant management interface built with HTML, CSS and JavaScript.
+<div align="center">
 
-### Tempo Planner
-Task management application designed to improve productivity.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Arcadia
-Modern web project with a focus on UI/UX and responsive design.
+</div>
 
-## 📫 Contact
+---
 
-Email: ademchebbi40@gmail.com
-<!--
-**Adamaaa699/Adamaaa699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Services
 
-Here are some ideas to get you started:
+| Service | Description |
+|---|---|
+| 🌐 **Website Development** | Landing pages, dashboards, web apps — responsive & modern |
+| 🤖 **AI Integration** | Chatbots, content generation, AI-powered tools |
+| 📊 **Data Analysis & Excel** | Charts, reports, dashboards from raw data |
+| 🎨 **PowerPoint Presentations** | Pitch decks, business slides, university presentations |
+| 📄 **CV & Documents** | Professional CVs, reports, quotes, formatted PDFs |
+| 🐍 **Python Automation** | Scripts to automate repetitive tasks |
+| 🧾 **Invoices & Quotes** | Professional billing tools for freelancers & businesses |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📄 [CVision 2.0](https://adamaaa699.github.io/CVision/)
+**AI-powered CV builder**
+
+8 themes, ATS analysis, coaching tips, and one-click PDF/PNG export. Everything in a single file.
+
+`HTML` `CSS` `JS` `AI` `PDF Export`
+
+</td>
+<td width="50%">
+
+### 🧾 [Facturio](https://adamaaa699.github.io/facturio/)
+**Professional invoice & quote generator**
+
+Real-time A4 preview, auto VAT calculation, auto-entrepreneur mode, PDF export. Zero dependencies.
+
+`HTML` `CSS` `JS` `PDF` `Business Tool`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [Resto Dashboard](https://adamaaa699.github.io/Resto_dashboard/)
+**Restaurant analytics dashboard**
+
+Sales tracking, peak hours heatmap, menu profitability matrix, staff performance. Built for real restaurateurs.
+
+`HTML` `CSS` `JS` `Chart.js` `Data Viz`
+
+</td>
+<td width="50%">
+
+### ⏱️ [Tempo Planner](https://adamaaa699.github.io/tempo-planner/)
+**AI scheduling tool for freelancers**
+
+Smart task planning, calendar view, focus timer (Pomodoro), calendar export (.ics). 100% local.
+
+`HTML` `CSS` `JS` `Algorithm` `PWA`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 [Arcadia](https://adamaaa699.github.io/arcadia/)
+**Next-gen browser arcade hub**
+
+9 playable games (Snake, Flappy, Morpion vs AI, Penalty, Maze, Darts, Agar…) with difficulty levels & high scores.
+
+`Canvas API` `JS` `Game Design` `AI Bot`
+
+</td>
+<td width="50%">
+
+### 🌐 [Portfolio](https://adamaaa699.github.io/)
+**Personal portfolio & freelance site**
+
+Services showcase, project gallery, pricing, contact form. Fully responsive dark design.
+
+`HTML` `CSS` `JS` `FormSubmit` `Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adamaaa699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamaaa699&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Adamaaa699&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contact & Hire Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ademchebbi40@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademchebbi40@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B33_7_79_79_34_15-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33779793415)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamaaa699.github.io-7C5CFF?style=for-the-badge&logo=github&logoColor=white)](https://adamaaa699.github.io/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+*Open to freelance projects · devis gratuit · réponse sous 24 h*
+
+</div>
 -->
