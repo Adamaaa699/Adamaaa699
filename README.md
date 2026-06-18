@@ -27,6 +27,7 @@ I build **websites, dashboards, AI-powered tools, and automation scripts** — c
 | 📄 CV & Documents | Professional CVs, reports, formatted PDFs |
 | 🐍 Python Automation | Scripts for repetitive tasks |
 | 🧾 Invoices & Quotes | Billing tools for freelancers & businesses |
+| ✍️ Email Signatures | Professional signatures for Gmail & Outlook |
 
 ## 🚀 Featured Projects
 
@@ -34,6 +35,7 @@ I build **websites, dashboards, AI-powered tools, and automation scripts** — c
 |---|---|
 | 📄 [CVision 2.0](https://adamaaa699.github.io/CVision/) | AI CV builder — themes, ATS analysis, PDF export |
 | 🧾 [Facturio](https://adamaaa699.github.io/facturio/) | Invoice generator — A4 preview, TVA auto, PDF export |
+| ✍️ [Signa](https://adamaaa699.github.io/Signa/) | Email signature generator — 4 templates, Gmail & Outlook |
 | 📊 [Resto Dashboard](https://adamaaa699.github.io/Resto_dashboard/) | Restaurant analytics — sales, heatmap, profitability |
 | ⏱️ [Tempo Planner](https://adamaaa699.github.io/tempo-planner/) | AI scheduling — calendar, focus timer, .ics export |
 | 🎮 [Arcadia](https://adamaaa699.github.io/arcadia/) | Browser arcade — 9 games vs AI bots |
